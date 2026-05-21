@@ -1,2 +1,21 @@
-# E-Commerce-Terminal-Application
-Simple terminal-based E-Commerce system built using Python OOP concepts such as Abstract Classes, Inheritance, Encapsulation, and Polymorphism. The application allows users to view products, add items to a shopping cart, apply discounts during checkout, and interact with the system through a clean command-line interface with error handling.
+# Interactive Smart E-Commerce System
+
+A simple terminal-based E-Commerce system built using Python OOP concepts.
+
+## Features
+- View products
+- Add products to cart
+- View cart
+- Checkout with discounts
+- Error handling
+
+## OOP Concepts Used
+- Abstract Class
+- Inheritance
+- Encapsulation
+- Polymorphism
+
+## How To Run
+
+```bash
+python main.py
