@@ -19,3 +19,6 @@ A simple terminal-based E-Commerce system built using Python OOP concepts.
 
 ```bash
 python main.py
+## link for the video
+https://drive.google.com/drive/folders/12VoLzaMHDfFNmTakcOu5YFffzafpYJWx?usp=drive_link
+
